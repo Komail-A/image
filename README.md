@@ -106,6 +106,3 @@ Model files are too large for GitHub. Download separately:
 - **FLUX.1-schnell**: https://huggingface.co/black-forest-labs/FLUX.1-schnell
 - **LoRA files**: Add your trained LoRA files to `loras/` directory
 
-## License
-
-See your organization's license terms.
